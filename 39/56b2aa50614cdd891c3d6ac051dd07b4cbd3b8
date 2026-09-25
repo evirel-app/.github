@@ -1,0 +1,16 @@
+profile/README.md
+  h_a1c258d8beeba3 1
+profile/header.svg
+  h_a1c258d8beeba3 1-86
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "3956b2aa50614cdd891c3d6ac051dd07b4cbd3b8",
+  "prompts": {},
+  "humans": {
+    "h_a1c258d8beeba3": {
+      "author": "Elias Häußler <elias@haeussler.dev>"
+    }
+  }
+}
