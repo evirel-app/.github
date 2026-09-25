@@ -1,0 +1,15 @@
+profile/header.svg
+  h_a1c258d8beeba3 33-35,41-43,79,82,94,97,104,107
+  h_a1c258d8beeba3 36,44,81,96,106
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "53d506ae72e3fb1b2ed92724dd38c34a571619e6",
+  "prompts": {},
+  "humans": {
+    "h_a1c258d8beeba3": {
+      "author": "Elias Häußler <elias@haeussler.dev>"
+    }
+  }
+}
